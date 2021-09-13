@@ -1,0 +1,29 @@
+
+
+*{
+  font-family: 'poppins';
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+.bg-header{
+    background-color: #264653;
+}
+.bg-button{
+    background-color: #E76F51;
+    height: 50px;
+    width:168px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.bg-rating{
+    color:  #E77C40;
+}
